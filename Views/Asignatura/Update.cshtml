@@ -1,0 +1,27 @@
+﻿@model Platzi_ASP_NET_Core.Models.Asignatura
+
+@{
+    ViewData["Title"] = "Edición de Asignatura";
+    Layout = "Simple";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div asp-validation-summary="All"></div>
+<form method="POST">
+    <div>
+        <label asp-for="Id"></label>
+        <input asp-for="Id" value="@Model.Id" disabled/>
+    </div>
+    <div>
+        <label asp-for="CursoId"></label>
+        <input asp-for="CursoId" value="@Model.CursoId" disabled/>
+    </div>
+    <div>
+        <label asp-for="Nombre"></label>
+        <input asp-for="Nombre" value="@Model.Nombre"/>
+    </div>
+    <input type="submit"/>
+</form>
+
+<p><i>@ViewBag.Fecha</i></p>

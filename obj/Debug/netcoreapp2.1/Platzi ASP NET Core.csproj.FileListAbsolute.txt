@@ -1,0 +1,66 @@
+C:\Curso NET core\Platzi ASP NET Core\bin\Debug\netcoreapp2.1\Platzi ASP NET Core.deps.json
+C:\Curso NET core\Platzi ASP NET Core\bin\Debug\netcoreapp2.1\Platzi ASP NET Core.runtimeconfig.json
+C:\Curso NET core\Platzi ASP NET Core\bin\Debug\netcoreapp2.1\Platzi ASP NET Core.runtimeconfig.dev.json
+C:\Curso NET core\Platzi ASP NET Core\bin\Debug\netcoreapp2.1\Platzi ASP NET Core.dll
+C:\Curso NET core\Platzi ASP NET Core\bin\Debug\netcoreapp2.1\Platzi ASP NET Core.pdb
+C:\Curso NET core\Platzi ASP NET Core\bin\Debug\netcoreapp2.1\Platzi ASP NET Core.Views.dll
+C:\Curso NET core\Platzi ASP NET Core\bin\Debug\netcoreapp2.1\Platzi ASP NET Core.Views.pdb
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Platzi ASP NET Core.csprojAssemblyReference.cache
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Platzi ASP NET Core.csproj.CoreCompileInputs.cache
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Platzi ASP NET Core.RazorAssemblyInfo.cache
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Platzi ASP NET Core.RazorAssemblyInfo.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Platzi ASP NET Core.AssemblyInfoInputs.cache
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Platzi ASP NET Core.AssemblyInfo.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Platzi ASP NET Core.TagHelpers.input.cache
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Platzi ASP NET Core.TagHelpers.output.cache
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Platzi ASP NET Core.RazorCoreGenerate.cache
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Platzi ASP NET Core.RazorTargetAssemblyInfo.cache
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Platzi ASP NET Core.RazorTargetAssemblyInfo.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Platzi ASP NET Core.Views.pdb
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Platzi ASP NET Core.dll
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Platzi ASP NET Core.pdb
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Platzi ASP NET Core.csproj.CopyComplete
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Escuela\Index.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Simple.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Asignatura\Index.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Asignatura\MultiAsignatura.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ObjetoEscuelaSimple.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Alumno\Index.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Alumno\MultiAlumno.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ListaObjetoEscuela.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Curso\Index.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Curso\MultiCurso.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Curso\Create.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Curso\Update.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Asignatura\Create.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Asignatura\Update.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Alumno\Create.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Alumno\Update.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Alumno\Delete.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Alumno\Details.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Alumno\Edit.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Asignatura\Delete.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Asignatura\Details.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Asignatura\Edit.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Curso\Delete.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Curso\Details.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Curso\Edit.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Escuela\Create.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Escuela\Delete.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Escuela\Details.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Escuela\Edit.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Evaluación\Create.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Evaluación\Delete.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Evaluación\Details.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Evaluación\Edit.g.cshtml.cs
+C:\Curso NET core\Platzi ASP NET Core\obj\Debug\netcoreapp2.1\Razor\Views\Evaluación\Index.g.cshtml.cs
